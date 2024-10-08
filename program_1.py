@@ -5,6 +5,7 @@
 import random
 
 def randDice():
+#########
     # Write your logic to generate 2 numbers between 1 and 6 here
     die1 = random.randint(1, 6)
     die2 = random.randint(1, 6)
@@ -24,3 +25,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+# Jadon Anderstrom, 10/08/24, "Random Dice".
